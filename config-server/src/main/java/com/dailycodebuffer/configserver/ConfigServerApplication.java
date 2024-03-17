@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ConfigServerApplication {
 
+	//From tutorial
 	public static void main(String[] args) {
 		SpringApplication.run(ConfigServerApplication.class, args);
 	}
